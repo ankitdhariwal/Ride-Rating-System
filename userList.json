@@ -1,0 +1,5 @@
+[
+  { "UserID": "100", "RideID": "1234", "DriverID": "200", "Rating": "4" },
+  { "UserID": "100", "RideID": "12", "DriverID": "200", "Rating": "5" },
+  { "UserID": "100", "RideID": "12343", "DriverID": "200", "Rating": "1" }
+]
